@@ -1,1 +1,2 @@
 first line in file1.txt in dev_A
+second line added in file1.txt on devB
